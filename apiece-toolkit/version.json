@@ -1,0 +1,11 @@
+{
+    "name": "apiece-toolkit",
+    "version": "0.0.2",
+    "description": "daily toolkit",
+    "mainfest": [
+        {
+            "version": "0.0.1",
+            "details": ["value111","value222"]
+        }
+    ]
+}
